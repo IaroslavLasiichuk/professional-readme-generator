@@ -5,6 +5,7 @@ This is a command-line application that generates a high-quality, professional R
 
 ## Link
 Link to walkthrough video that demonstrates the functionality of the README generator.
+> https://drive.google.com/file/d/13CvxSC77fDM895vwXllUbjb_0m-E40hM/view
 
 ## Table of Contents
   
