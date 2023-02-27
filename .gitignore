@@ -107,4 +107,4 @@ dist
 node_modules/
 
 # Ds Store
-.DS_Store/
+.DS_Store
