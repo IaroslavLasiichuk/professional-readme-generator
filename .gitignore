@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # Node modules
-node_modules
+node_modules/
 
 # Ds Store
-.DS_Store
+.DS_Store/
