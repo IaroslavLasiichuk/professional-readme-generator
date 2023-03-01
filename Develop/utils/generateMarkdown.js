@@ -33,7 +33,6 @@ limitations under the License.
 function generateMarkdown(data) {
   return `# ${data.title}
   <br>    
-
 ${renderLicenseSection(data.license)}
 
 ## Description

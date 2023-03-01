@@ -10,6 +10,10 @@ Link to walkthrough video that demonstrates the functionality of the README gene
 ## Table of Contents
   
   * [Installation](#installation)
+
+  * [Technologies](#technologies)
+
+  * [Screenshot](#screenshot)
   
   * [Usage](#usage)
   
@@ -24,6 +28,13 @@ Link to walkthrough video that demonstrates the functionality of the README gene
 
      npm i
 
+## Technologies
+1. Javascript
+2. NodeJs
+3. Inquirer 8.2.4
+
+## Screenshot
+![Screenshot](./Develop/assets/img/screenshot.png)
  ## Usage
 
 Open a terminal window and navigate to the project directory.
